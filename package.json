@@ -2,7 +2,7 @@
     "name": "editorial-css",
     "description": "This is Editorial, a news-oriented theme for Ghost.",
     "demo": "https://editorial.ghost.io",
-    "version": "2.1.0-css",
+    "version": "2.1.1-css",
     "engines": {
         "ghost": ">=3.0.0",
         "ghost-api": "v3"
