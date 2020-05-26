@@ -1,3 +1,15 @@
+Theme for eventfund.codeforscience.org edited from Editorial.
+
+Changes made:
+
+* Show pages on homepage (isntead of blog posts)
+* Show blog posts with tag on sidebar
+* Create blog page
+* Update some button/header language
+* Style to match CSS design
+
+---
+
 # Editorial
 
 This is Editorial, a news-oriented design built around a dynamic 'locking' sidebar (try the toggle to see it in action!) and purpose built for content-centric sites. Originally created by [@ajlkn](https://twitter.com/ajlkn) for [HTML5 UP](https://html5up.net) and later ported to [Ghost](https://ghost.org)
